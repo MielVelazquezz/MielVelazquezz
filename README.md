@@ -14,7 +14,7 @@
 ---
 
 ### 🌐 Redes Sociais  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miel-j-velazquez-d-s-b14473221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miel-j-velazquez-d-s-b14473221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/velazquezmiel)
 
 ---
 
