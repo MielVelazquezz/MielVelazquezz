@@ -1,6 +1,7 @@
 # Olá, eu sou o Miel! 👋
 
 🙋🏻‍♀️ **Tenho 18 anos**
+
 🚀 **Técnica em Desenvolvimento de Sistemas** focado em tecnologia bancária e web.  
 🎓 Formação em ADS pelo SENAI.  
 
