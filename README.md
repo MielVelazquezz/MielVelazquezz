@@ -19,7 +19,7 @@
 ---
 
 ### 🌍 Idiomas  
-![Inglês](https://img.shields.io/badge/English-B22222?style=for-the-badge&logo=language&logoColor=white)  ![Espanhol](https://img.shields.io/badge/Español-FF5733?style=for-the-badge&logo=language&logoColor=white)  
+![Inglês](https://img.shields.io/badge/English-B22222?style=for-the-badge&logo=language&logoColor=white)  ![Espanhol](https://img.shields.io/badge/Español-FF5733?style=for-the-badge&logo=language&logoColor=white)  ![Português BR](https://img.shields.io/badge/Português%20(BR)-009639?style=for-the-badge&logo=language&logoColor=white)  
 
 ---
 ### 📜 Certificações  
