@@ -1,4 +1,4 @@
-# Olá, eu sou o Miel! 👋
+# Olá, eu sou o Miel! 👋 🇵🇾🇧🇷
 
 🚀 **Técnica em Desenvolvimento de Sistemas** focada em tecnologia bancária e web.  
 🎓 Formação em ADS pelo SENAI.  
@@ -21,6 +21,12 @@
 ### 🌍 Idiomas  
 ![Inglês](https://img.shields.io/badge/English-B22222?style=for-the-badge&logo=language&logoColor=white)  ![Espanhol](https://img.shields.io/badge/Español-FF5733?style=for-the-badge&logo=language&logoColor=white)  
 
+---
+### 📜 Certificações  
+- Análise e Desenvolvimento de Sistemas - SENAI.  
+- Programação em Python no Raspberry - SENAI.
+- Inglês Profissionalizante - Enjoy.
+- Pacote Office - Enjoy 
 ---
 
 ### 📊 Estatísticas do GitHub  
