@@ -1,7 +1,7 @@
 # Olá, eu sou o Miel! 👋 🇵🇾🇧🇷
 
 🚀 **Técnica em Desenvolvimento de Sistemas** focada em desenvolvimento web.  
-🎓 Formação em ADS pelo SENAI.  
+🎓 Formação em Análise e Desenvolvimento de Sistemas pelo SENAI.  
 
 ---
 
