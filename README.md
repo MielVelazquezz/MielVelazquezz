@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9027FF&height=120&section=header"/>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9027FF&background=FF000000&center=true&vCenter=true&multiline=true&width=535&height=100&lines=HI!+I'm+Miel+Velazquez%2C+and+I'm+19+years+old;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 🚀 **Systems Development Technician** focused on web development.  
@@ -32,3 +35,5 @@
 
 ### 📊 GitHub Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=MielVelazquezz&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MielVelazquezz&layout=compact&theme=radical)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9027FF&height=120&section=footer"/>
