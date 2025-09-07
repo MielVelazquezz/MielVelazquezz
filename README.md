@@ -73,7 +73,6 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mieljazmim@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/velazquezmiel/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-6e3a5d?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/593043047902609429)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.linkedin.com/in/kamilly-medino-b72a3b33a/](https://www.linkedin.com/in/miel-j-velazquez-d-s-b14473221/))
   
 </div>
