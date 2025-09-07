@@ -35,6 +35,7 @@
 
 ### 📊 GitHub Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=MielVelazquezz&show_icons=true&theme=radical) 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MielVelazquezz&layout=compact&theme=radical)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9027FF&height=120&section=footer"/>
