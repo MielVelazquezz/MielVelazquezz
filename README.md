@@ -12,7 +12,7 @@
 
 <p align="center" width="100%">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=ff79c6&background=FF000000&center=true&vCenter=true&multiline=false&width=535&height=100&lines=I'm+a+student+of+Computer+Science;I'm+19+years+old;Be+welcome+to+my+profile!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=ff79c6&background=FF000000&center=true&vCenter=true&multiline=false&width=535&height=100&lines=I'm+a+student+of+Computer+Science;I'm+19+years+old;Welcome+to+my+profile!"/>
   </a>
 </p>
 
