@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9027FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
 
 <br>
 
@@ -13,37 +13,38 @@
 
 <p align="center" width="100%">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=9027FF&background=FF000000&center=true&vCenter=true&multiline=false&width=535&height=100&lines=I'm+a+student+of+Computer+Sciense;I'm+19+years+old;Be+welcome+to+my+profile!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=ff79c6&background=FF000000&center=true&vCenter=true&multiline=false&width=535&height=100&lines=I'm+a+student+of+Computer+Science;I'm+19+years+old;Be+welcome+to+my+profile!"/>
   </a>
 </p>
 
 <br>
 
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MielVelazquezz&theme=jolly) | ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MielVelazquezz&theme=jolly) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MielVelazquezz&theme=jolly&utcOffset=8) |
+| :-: | :-: | :-: |
+
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MielVelazquezz&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MielVelazquezz&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+| :-: | :-: |
+
       
 <br>
-<br>
-      
-<div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=MielVelazquezz&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MielVelazquezz&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MielVelazquezz&theme=omni"/>
-</div>
 
 <div align="center" style="display: inline_block"><br>
+   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  
 </div>
 
 <br>
@@ -89,4 +90,5 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9027FF&height=100&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
