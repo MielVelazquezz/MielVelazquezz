@@ -58,7 +58,7 @@
 
 <h3 align="center">📜 Certifications</h3>
 
-<p align="column">
+<p align="center">
   • Systems Analysis and Development – SENAI <br>
   • Python Programming on Raspberry – SENAI <br>
   • Professional English – Enjoy <br>
