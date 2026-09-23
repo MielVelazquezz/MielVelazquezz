@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6B6B6B"/>
 
 <br>
 
@@ -12,20 +12,20 @@
 
 <p align="center" width="100%">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=ff79c6&background=FF000000&center=true&vCenter=true&multiline=false&width=535&height=100&lines=I'm+a+student+of+Computer+Science;I'm+19+years+old;Welcome+to+my+profile!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6B6B6B&background=FF000000&center=true&vCenter=true&multiline=false&width=535&height=100&lines=I'm+a+student+of+Computer+Science;I'm+20+years+old;Welcome+to+my+profile!"/>
   </a>
 </p>
 
 <div height="350" align="center">
-  <img  alt="Image" height="350" src="https://github.com/user-attachments/assets/c53cd0a1-f859-41a8-a556-706d45d41b92" />
+  <img width="854" height="572" alt="+ (1)" src="https://github.com/user-attachments/assets/520768b4-6cbf-494d-94d6-9aabf0feebc8" />
 </div>
 
 <br><br>
 
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MielVelazquezz&theme=jolly) | ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MielVelazquezz&theme=jolly) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MielVelazquezz&theme=jolly&utcOffset=8) |
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MielVelazquezz&theme=dark) | ![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MielVelazquezz&theme=dark) | ![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MielVelazquezz&theme=dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MielVelazquezz&theme=jolly) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MielVelazquezz&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+| ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MielVelazquezz&theme=dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MielVelazquezz&theme=dark&hide_border=true)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 <br>
@@ -67,12 +67,12 @@
   </samp>
   <br><br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mieljazmim@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/velazquezmiel/?next=%2F)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/miel-j-velazquez-d-s-b14473221/)
+  [![Gmail](https://img.shields.io/badge/Gmail-6B6B6B?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:mieljazmim@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-6B6B6B?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/velazquezmiel/?next=%2F)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-6B6B6B?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/miel-j-velazquez-d-s-b14473221/)
 </div>
 
 <br>
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B6B6B&height=100&section=footer"/>
